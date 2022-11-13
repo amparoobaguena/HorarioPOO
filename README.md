@@ -1,6 +1,6 @@
 # HorarioPOO
 
-#Lucia Mena y Amparo Báguena
+*Lucia Mena y Amparo Báguena*
 
 Nuestro proyecto consta de 7 clases las cuales hemos empleado para desarrollar el Horario que gestionará las Asignaturas y las Horas en las que estas se desarrollan. Haremos una breve explicación de lo realizado en cada una de las clases y de lo que gestionan, además de indicar posibles dificultades que nos han surgido durante el progreso del trabajo.
 Comenzaremos hablando de la clase HorarioP0O: venía proporcionada previamente y no se podían realizar modificaciones excepto para crear la interacción con el usuario.
